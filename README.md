@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Hello world👋 I'm Abdelkarim</h1>
-<!-- <h3 align="center">A passionate full stack developer</h3> -->
+ <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **MOBILE DEV**
+<!--- 🌱 I’m currently learning **MOBILE DEV** -->
 
 - 📫 How to reach me **abdelkarimelmanssouri0@gmail.com**
 
