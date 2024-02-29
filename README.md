@@ -5,7 +5,7 @@
 
 <!--- 🌱 I’m currently learning **MOBILE DEV** -->
 
-- 📫 How to reach me **abdelkarimelmanssouri0@gmail.com**
+- 📫 How to reach me **elmanssouriabdelkarim0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
