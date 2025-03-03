@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **elmanssouriabdelkarim0@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://codepen.io/s_salma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="s_salma" height="30" width="40" /></a>
+ <a href="https://codepen.io/s_salma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="s_salma" height="30" width="40" /></a>
 <a href="https://twitter.com/salma_sbaiti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salma_sbaiti" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/salma sbaiti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salma sbaiti" height="30" width="40" /></a>
 </p> -->
